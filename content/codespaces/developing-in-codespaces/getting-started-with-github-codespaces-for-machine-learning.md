@@ -96,7 +96,7 @@ Some software, such as TensorFlow, requires you to install NVIDIA CUDA to use yo
          ]
        }
      },
-     “features”: {
+     "features": {
        "ghcr.io/devcontainers/features/nvidia-cuda:1": { 
          "installCudnn": true
        }
